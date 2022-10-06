@@ -1,18 +1,18 @@
 {
   "name": "ss14-syntax",
   "theme": "syntax",
-  "version": "0.1.1",
-"description": "เว็บรวยรวย✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
-"keywords": [
-"เว็บรวยรวย",
-"เว็บหวย24",
-"the lottovip",
-"เว็บหวยหุ้นออนไลน์",
-"lottovip สมัคร"
-],
+  "version": "0.2.0",
+  "description": "เว็บรวยรวย✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
+  "keywords": [
+    "เว็บรวยรวย",
+    "เว็บหวย24",
+    "the lottovip",
+    "เว็บหวยหุ้นออนไลน์",
+    "lottovip สมัคร"
+  ],
   "repository": "https://github.com/setteebet/ss14-syntax.git",
   "license": "MIT",
   "engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
